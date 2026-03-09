@@ -1,0 +1,19 @@
+# dependências
+node_modules/
+
+# build
+dist/
+
+# cache
+.vite/
+
+# arquivos temporários
+package.json.save*
+npm-debug.log*
+
+# variáveis de ambiente
+.env
+
+# arquivos do sistema
+.DS_Store
+Thumbs.db
